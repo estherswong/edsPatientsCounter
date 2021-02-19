@@ -1,4 +1,4 @@
-# edsPatientCounter
+# edsPatientsCounter
 
 The following project is a fullstack website that displays the count of patients with Ehlers-Danlos Syndrome, a genetic disorder that impacts connective tissues, by subtype. There are a total of 13 different subtypes, each displayed on the table; more information about each subtype can be found [here](https://www.ehlers-danlos.com/eds-types/). 
 
